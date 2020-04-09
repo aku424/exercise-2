@@ -1,0 +1,36 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing: border-box;
+}
+.main{
+	height: 800px;
+	width:100%;
+}
+.sakura{
+	background-image: url(img/box1.jpg);
+	background-size: cover;
+	background-position: center;
+	height:200px;
+
+}
+.sea{
+	background-image: url(img/box2.jpg);
+	background-size: cover;
+	background-position: center;
+	height:200px;
+}
+.orange{
+	background-image: url(img/box3.jpg);
+	background-size: cover;
+	background-position: center;
+	height:200px;
+}
+.white{
+	background-image: url(img/box4.jpg);
+	background-size: cover;
+	background-position: center;
+	height:200px;
+}
+
+
