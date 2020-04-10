@@ -1,0 +1,39 @@
+*{
+	padding: 0;
+	margin:0;
+	box-sizing: border-box;
+}
+.contents{
+	width:960px;
+	margin:50px auto;
+
+}
+.content{
+	float:left;
+	border:1px solid #c0c0c0;
+	width: 300px
+}
+.head img{
+	width:280px;
+	height: 150px;
+	margin:10px;
+	background-position: bottom;
+	background-size: cover;
+}
+.step2{
+	margin: 0 30px;
+}
+.head{
+	position: relative;
+}
+.head p{
+	position: absolute;
+	background: orange;
+	color:#fff;
+	}
+.content-title{
+	margin-left:10px;
+}
+.text{
+	padding: 10px;
+}
